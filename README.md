@@ -6,7 +6,7 @@
   <img src="https://github.com/MaryemeHassani/MaryemeHassani/blob/main/profil.png" width="100%" />
 </div>
 <br>
-<div id="badges" align="center">
+<div id="badges" >
   <a href="https://www.linkedin.com/in/hassani-maryeme/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
