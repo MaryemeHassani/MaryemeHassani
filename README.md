@@ -29,7 +29,7 @@
 
 > « The world is one big data problem. »
 
-This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering's degree.
+This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in Business Intelligence engineering's degree.
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a Business Analyst engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for insightful analysis that directly aids decision-making. By transforming data into actionable insights, I strive to help organizations make informed, strategic decisions that drive success.
 
