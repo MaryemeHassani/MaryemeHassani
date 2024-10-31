@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://github.com/MaryemeHassani/Ecom-FrontProject/assets/66017329/f067decf-db77-4185-aa03-3424e234c440" width="100%" />
+    <img src="https://github.com/MaryemeHassani/MaryemeHassani/blob/main/profil.png width="100%" />
   </div>
   <br>
   <div id="badges">
